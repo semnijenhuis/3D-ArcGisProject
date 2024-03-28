@@ -98,48 +98,49 @@ To address this gap, the development team will focus on enhancing their understa
 
 ## Constrains and limitations
 
-### 1. Technical Complexity with ArcGIS API:
+### Technical Complexity with ArcGIS API:
 Working with the ArcGIS API presents a significant learning curve due to its technical complexity. This may necessitate thorough documentation to facilitate project handover and ensure continuity in development efforts.
 
-### 2. Dependency on Evolving Esri Technologies:
+### Dependency on Evolving Esri Technologies:
 The project relies on Esri technologies, such as Sceneview, which are subject to change or discontinuation by the provider. Continuous monitoring of Esri's updates and potential shifts in technology is essential to adapt project strategies accordingly.
 
-### 3. Solo Development Efforts:
+### Solo Development Efforts:
 With the project being developed solo, there may be challenges in managing workload and addressing unforeseen complexities. Flexibility is key to adjusting project requirements and resource allocation as needed throughout the development cycle.
 
-### 4. Data Management and GDPR Compliance:
+### Data Management and GDPR Compliance:
 Data handling, particularly concerning user feedback, requires careful consideration to ensure compliance with GDPR regulations. Balancing the desire for comprehensive feedback analysis with legal obligations regarding data privacy and consent is critical.
 
-### 5. Time Constraints of Internship Duration:
+### Time Constraints of Internship Duration:
 The project timeline is constrained by the duration of the internship, spanning 20 weeks. While aiming for ambitious project goals, it's essential to maintain a realistic perspective and prioritize tasks effectively within the allocated timeframe.
+
 ## Risk Analysis
-### 1. Dependency on ArcGIS for Building Viewer:
+### Dependency on ArcGIS for Building Viewer:
 The primary reliance on ArcGIS for building visualization poses a significant risk. Any downtime or service interruptions from ArcGIS could lead to the entire application being inaccessible. This dependency underscores the importance of closely monitoring ArcGIS's performance and having contingency plans in place to mitigate disruptions.
 
-### 2. Risk of Data Loss:
+### Risk of Data Loss:
 With users providing numerous responses, the risk of data loss during updates or deployments is a critical concern. Implementing robust backup procedures prior to deploying new versions can safeguard against potential data loss and ensure continuity of user interactions.
 
-### 3. Optimization for Resource Efficiency:
+### Optimization for Resource Efficiency:
 While budget constraints are not a direct concern, resource efficiency remains paramount. Striving for lightweight application design minimizes server costs and enhances the end-user experience. Prioritizing efficiency in resource utilization ensures scalability and sustainability in the long run.
 
-### 4. Compliance with GDPR Regulations:
+### Compliance with GDPR Regulations:
 Non-compliance with GDPR regulations poses a substantial risk, potentially leading to severe financial penalties. Clear protocols must be established to ensure transparent data handling practices, including explicit consent from users regarding data storage and usage. Adhering strictly to GDPR guidelines mitigates legal and reputational risks associated with data privacy breaches.
 
-### 5. Competitive Landscape and Innovation:
+### Competitive Landscape and Innovation:
 Staying ahead of the market in building visualization and user interaction tools is critical. As a niche concept, the application's success hinges on its ability to offer innovative features and a superior user experience. Proactive innovation ensures that the application remains competitive and maintains its position as a leading platform for 3D response participation.
 
 ## Recommendations
-###  1. Utilize Commonly Used Objects for Reliability:
+### Utilize Commonly Used Objects for Reliability:
 Incorporate widely-used 3D objects and components to enhance the reliability and compatibility of the application. Prioritizing common objects ensures easier collaboration with other developers and facilitates future maintenance.
 
-###  2. Implement Robust Backup Procedures:
+### Implement Robust Backup Procedures:
 Establish comprehensive backup procedures to safeguard data integrity during updates or migrations. Consider scripting solutions to automate data conversion processes and minimize the risk of data loss during transitions between old and new versions.
 
-###  3. Optimize ArcGIS Performance:
+### Optimize ArcGIS Performance:
 Explore optimization techniques to improve the performance of ArcGIS applications. Strive for a balance between data quality and loading times by selectively importing necessary details. Prioritize optimizing performance to enhance user experience and minimize loading delays.
 
-###  4. Review Data Storage Requirements for Feedback:
+### Review Data Storage Requirements for Feedback:
 Evaluate the necessity of storing all feedback information and consider options for anonymized responses. Determine whether certain data points are essential for analysis or if anonymization can be implemented to protect user privacy while still providing valuable insights.
 
-###  5. Continued Learning and Skill Development:
+### Continued Learning and Skill Development:
 Commit to ongoing learning and skill development in ArcGIS and JavaScript to refine proficiency and build a better end product. Invest time in exploring advanced features, attending training sessions, and engaging in hands-on practice to enhance expertise and capabilities.
