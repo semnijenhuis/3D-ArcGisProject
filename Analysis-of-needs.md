@@ -153,3 +153,6 @@ With a keen focus on meeting stakeholders' needs, 3D InBeeld is dedicated to del
 As we navigate through the project, it's imperative to remain vigilant in identifying risks and challenges, including reliance on external APIs and safeguarding data privacy. By addressing these concerns proactively, we can fortify our project against potential setbacks and ensure smooth progress.
 
 Undoubtedly, the path to realizing a novel 3D participation application presents its share of obstacles. However, with unwavering dedication, innovative thinking, and steadfast commitment, I am confident in the project's potential to redefine the future landscape of InBeeld.
+
+> [!WARNING]
+> This document is part of the main file. Please ensure that you are referring to the complete document for comprehensive information and context.
