@@ -117,3 +117,18 @@ Data handling, particularly concerning user feedback, requires careful considera
 
 ### 5. Time Constraints of Internship Duration:
 The project timeline is constrained by the duration of the internship, spanning 20 weeks. While aiming for ambitious project goals, it's essential to maintain a realistic perspective and prioritize tasks effectively within the allocated timeframe.
+## Risk Analysis
+### 1. Dependency on ArcGIS for Building Viewer:
+The primary reliance on ArcGIS for building visualization poses a significant risk. Any downtime or service interruptions from ArcGIS could lead to the entire application being inaccessible. This dependency underscores the importance of closely monitoring ArcGIS's performance and having contingency plans in place to mitigate disruptions.
+
+### 2. Risk of Data Loss:
+With users providing numerous responses, the risk of data loss during updates or deployments is a critical concern. Implementing robust backup procedures prior to deploying new versions can safeguard against potential data loss and ensure continuity of user interactions.
+
+### 3. Optimization for Resource Efficiency:
+While budget constraints are not a direct concern, resource efficiency remains paramount. Striving for lightweight application design minimizes server costs and enhances the end-user experience. Prioritizing efficiency in resource utilization ensures scalability and sustainability in the long run.
+
+### 4. Compliance with GDPR Regulations:
+Non-compliance with GDPR regulations poses a substantial risk, potentially leading to severe financial penalties. Clear protocols must be established to ensure transparent data handling practices, including explicit consent from users regarding data storage and usage. Adhering strictly to GDPR guidelines mitigates legal and reputational risks associated with data privacy breaches.
+
+### 5. Competitive Landscape and Innovation:
+Staying ahead of the market in building visualization and user interaction tools is critical. As a niche concept, the application's success hinges on its ability to offer innovative features and a superior user experience. Proactive innovation ensures that the application remains competitive and maintains its position as a leading platform for 3D response participation.
