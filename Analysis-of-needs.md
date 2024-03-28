@@ -154,5 +154,5 @@ As we navigate through the project, it's imperative to remain vigilant in identi
 
 Undoubtedly, the path to realizing a novel 3D participation application presents its share of obstacles. However, with unwavering dedication, innovative thinking, and steadfast commitment, I am confident in the project's potential to redefine the future landscape of InBeeld.
 
-> [!WARNING]
+> [!IMPORTANT]
 > This document is part of the main file. Please ensure that you are referring to the complete document for comprehensive information and context.
