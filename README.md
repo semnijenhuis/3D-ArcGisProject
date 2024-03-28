@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> This is an internship project in partnership with Witteveen + Bos and Saxion University of Applied Sciences.
+> This is an internship project conducted in partnership with Witteveen + Bos and for the academic institution Saxion University of Applied Sciences. It represents a collaborative effort between industry and academia to develop innovative solutions.
+>
+> All rights to the project and its associated materials are reserved by Witteveen + Bos, Saxion University, and the author (your name). Any unauthorized use or reproduction of the project content without explicit permission is prohibited.
 
 # Analysis of Needs
 ## Introduction
@@ -43,9 +45,3 @@ Our end users, who will provide feedback on buildings/objects, will vary widely 
 
 ### External stakeholders (Government Bodies and other parties):
 For external stakeholders, such as government bodies, demonstrating the advantages of the project beyond mere compliance is crucial. Showing how the application can enhance their plans with valuable feedback and insights can garner long-term support and collaboration.
-
-
-> [!IMPORTANT]
-> This is an internship project conducted in partnership with Witteveen + Bos and for the academic institution Saxion University of Applied Sciences. It represents a collaborative effort between industry and academia to develop innovative solutions.
->
-> All rights to the project and its associated materials are reserved by Witteveen + Bos, Saxion University, and the author (your name). Any unauthorized use or reproduction of the project content without explicit permission is prohibited.
