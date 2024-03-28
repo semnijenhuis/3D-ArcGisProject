@@ -89,3 +89,14 @@ For external stakeholders, such as government bodies, demonstrating the advantag
 By meeting these requirements, the application aims to facilitate user interaction with 3D buildings and objects, enhancing the overall user experience and potentially driving increased sales for inBeeld. Additionally, the project seeks to expand the availability of 3D building models, thereby enriching the platform's database and attracting a broader user base. The primary focus remains on empowering end users to provide feedback directly on the map interface, ensuring their engagement and satisfaction with the application.
 
 ## Gap Analysis
+### Current State
+InBeeld recently underwent a major redesign and functional update, transitioning from an older interface to a more modernized design. Presently, users interact with a 2D map interface, where they can place responses, view a legend, zoom in/out, and access a list of all responses.
+
+### Desired State
+The desired state involves upgrading the InBeeld platform to incorporate a 3D building environment, providing users with the ability to place 3D objects as markers, navigate through the building using multiple scenes, and visualize construction progress over time.
+
+### Gap
+The primary challenge lies in integrating 3D functionality using the ArcGIS API. ArcGIS presents complexities in understanding and implementing 3D models within the platform. The gap exists in navigating these complexities to effectively incorporate 3D capabilities into the application's interface.
+
+### Mitigation Strategies
+To address this gap, the development team will focus on enhancing their understanding of the ArcGIS API's 3D capabilities through targeted training, research, and collaboration with experts. Additionally, they will engage with the ArcGIS community and leverage available resources, such as documentation and support forums, to troubleshoot issues and optimize implementation. Continuous testing and iteration will be conducted to refine the integration of 3D functionality and ensure a seamless user experience.
