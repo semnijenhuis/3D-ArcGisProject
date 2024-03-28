@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is an internship project conducted in partnership with Witteveen + Bos and for the academic institution Saxion University of Applied Sciences. It represents a collaborative effort between industry and academia to develop innovative solutions.
+
 # Analysis of Needs
 ## Introduction
 For my internship at Witteveen + Bos, I'm developing an application to enable users to provide feedback on 3D building or other objects, enhancing interaction and modernizing the experience. Currently, users can only respond on a 2D map, limiting the specificity of feedback. Transitioning to a 3D environment offers the potential for more precise feedback by visualizing structures in three dimensions.
