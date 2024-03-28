@@ -85,3 +85,7 @@ For external stakeholders, such as government bodies, demonstrating the advantag
 | **Visibility of Responses**        | Users should understand that their public response will be visible to others                               | The application should clearly inform users about the visibility of their responses | Must         |
 | **Compatibility Testing**          | The application should undergo compatibility testing to ensure consistent performance                      | The application should be thoroughly tested to ensure stability                     | Should have  |
 | **Ease of Use for Product Owners** | As a product owner, I shouldn’t need a lot of technical knowledge for basic changes                        | The application should provide easy access and usability for product owners         | Would have   |
+
+By meeting these requirements, the application aims to facilitate user interaction with 3D buildings and objects, enhancing the overall user experience and potentially driving increased sales for inBeeld. Additionally, the project seeks to expand the availability of 3D building models, thereby enriching the platform's database and attracting a broader user base. The primary focus remains on empowering end users to provide feedback directly on the map interface, ensuring their engagement and satisfaction with the application.
+
+## Gap Analysis
