@@ -100,3 +100,20 @@ The primary challenge lies in integrating 3D functionality using the ArcGIS API.
 
 ### Mitigation Strategies
 To address this gap, the development team will focus on enhancing their understanding of the ArcGIS API's 3D capabilities through targeted training, research, and collaboration with experts. Additionally, they will engage with the ArcGIS community and leverage available resources, such as documentation and support forums, to troubleshoot issues and optimize implementation. Continuous testing and iteration will be conducted to refine the integration of 3D functionality and ensure a seamless user experience.
+
+## Constrains and limitations
+
+1. Technical Complexity with ArcGIS API:
+- Working with the ArcGIS API presents a significant learning curve due to its technical complexity. This may necessitate thorough documentation to facilitate project handover and ensure continuity in development efforts.
+
+2. Dependency on Evolving Esri Technologies:
+- The project relies on Esri technologies, such as Sceneview, which are subject to change or discontinuation by the provider. Continuous monitoring of Esri's updates and potential shifts in technology is essential to adapt project strategies accordingly.
+
+3. Solo Development Efforts:
+- With the project being developed solo, there may be challenges in managing workload and addressing unforeseen complexities. Flexibility is key to adjusting project requirements and resource allocation as needed throughout the development cycle.
+
+4. Data Management and GDPR Compliance:
+- Data handling, particularly concerning user feedback, requires careful consideration to ensure compliance with GDPR regulations. Balancing the desire for comprehensive feedback analysis with legal obligations regarding data privacy and consent is critical.
+
+5. Time Constraints of Internship Duration:
+- The project timeline is constrained by the duration of the internship, spanning 20 weeks. While aiming for ambitious project goals, it's essential to maintain a realistic perspective and prioritize tasks effectively within the allocated timeframe.
