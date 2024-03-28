@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is an internship project conducted in partnership with Witteveen + Bos and for Saxion University of Applied Sciences.
+> This is an internship project in partnership with Witteveen + Bos and Saxion University of Applied Sciences.
 
 # Analysis of Needs
 ## Introduction
