@@ -72,3 +72,6 @@ We conduct testing with cypress to verify the seamless interaction between our a
 
 # Conclusion
 Now based on the analysis of needs and now the requirement analysis with more details I should be able to make a design and later on start with a proof of concept. The desires and risks are now clear to me on what to do. Throughout the project I will be using the scrum work method with a sprint every 2 weeks, this will help me adjust the arise issues head on and adjust where it’s needed 
+
+> [!CAUTION]
+> All rights to the project and its associated materials are reserved by Witteveen + Bos, Saxion University, and the author Sem Nijenhuis. Any unauthorized use or reproduction of the project content without explicit permission is prohibited.

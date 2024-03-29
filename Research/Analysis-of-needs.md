@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This document is part of the main file. Please ensure that you are referring to the complete document for comprehensive information and context.
+
 # Analysis of Needs
 ## Introduction
 For my internship at Witteveen + Bos, I'm developing an application to enable users to provide feedback on 3D building or other objects, enhancing interaction and modernizing the experience. Currently, users can only respond on a 2D map, limiting the specificity of feedback. Transitioning to a 3D environment offers the potential for more precise feedback by visualizing structures in three dimensions.
@@ -154,5 +157,7 @@ As we navigate through the project, it's imperative to remain vigilant in identi
 
 Undoubtedly, the path to realizing a novel 3D participation application presents its share of obstacles. However, with unwavering dedication, innovative thinking, and steadfast commitment, I am confident in the project's potential to redefine the future landscape of InBeeld.
 
-> [!IMPORTANT]
-> This document is part of the main file. Please ensure that you are referring to the complete document for comprehensive information and context.
+
+
+> [!CAUTION]
+> All rights to the project and its associated materials are reserved by Witteveen + Bos, Saxion University, and the author Sem Nijenhuis. Any unauthorized use or reproduction of the project content without explicit permission is prohibited.
