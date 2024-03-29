@@ -71,3 +71,4 @@ We are going to store only the data that we are allowed to store with GDPR and o
 We conduct testing with cypress to verify the seamless interaction between our application and ArcGIS services. These testing scenarios include validating data exchange and simulating various error conditions to ensure robustness and reliability.
 
 # Conclusion
+Now based on the analysis of needs and now the requirement analysis with more details I should be able to make a design and later on start with a proof of concept. The desires and risks are now clear to me on what to do. Throughout the project I will be using the scrum work method with a sprint every 2 weeks, this will help me adjust the arise issues head on and adjust where it’s needed 
